@@ -1,2 +1,2 @@
 # CodeClause_Sales_Analysis
-CodeClause Internship Task 1 of Sales detection
+CodeClause Internship Task 1 of Sales Analysis
